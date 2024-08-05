@@ -1,0 +1,19 @@
+{
+  "name": "assignment",
+  "version": "1.0.1",
+  "description": "This is my first Assignment on Fundamentals of NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm runtest"
+  },
+  "keywords": [
+    "Manas",
+    "Pandey",
+    "My",
+    "Project",
+    "Pw",
+    "Skills."
+  ],
+  "author": "Manas Pandey",
+  "license": "ISC"
+}
